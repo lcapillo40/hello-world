@@ -1,2 +1,7 @@
-# hello-world
-Repository to practice the GitHub Flow
+- 👋 Hi, I’m @lcapillo40
+- 👀 I’m interested in helping others find items they need
+- 🌱 I’m currently learning computer programming 
+- 💞️ I’m looking to find a part-time traveling job. 
+- 📫 How to reach me email
+- 😄 Pronouns: ...
+- ⚡ Fun fact: My girls are 21 and 20, I am a grandma at 40 and loving it. I spoil grand babies and send them home.
